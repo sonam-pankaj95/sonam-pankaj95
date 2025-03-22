@@ -7,5 +7,3 @@
 -->I am Sonam, Co-Creator of Embed-Anything. It's a python client for lightning-fast embedding written in Rust.
 
 
-![Profile view counter on GitHub](https://github.com/sonam-pankaj95)
-
